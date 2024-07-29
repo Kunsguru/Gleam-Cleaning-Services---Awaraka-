@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.menu {
+    color: green;
+}
+
+main {
+    text-align: center;
+    padding: 5px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #ccc;
+}
+
+h3, h4 {
+    margin-left: 10px;
+}
+
+p {
+    margin-left: 20px;
+}
+
+.indented {
+    text-indent: 20px;
+}
+
+nav {
+    margin-top: 12px;
+    text-align: center;
+}
+
+input[type="text"], input[type="email"], input[type="password"] {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 80%;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkgreen;
+}
+
+footer {
+    background-color: #333;
+    color: blue;
+    padding: 10px;
+    text-align: center;
+}
+
+.foot {
+    color: blue;
+    text-align: center;
+}
+
+aside {
+    text-align: center;
+    padding: 1px;
+    color: white;
+}
